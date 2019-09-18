@@ -1,0 +1,3 @@
+Here is a script file job.sh which will calculate phonon dispersion and phonon DOS.
+All the results with plot will be written in result folder.
+It is a very general format, you can modify according to your requirement and get plot.

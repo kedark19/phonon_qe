@@ -1,0 +1,13 @@
+ &input
+    asr='simple',  
+    flfrc='Si1444.fc', 
+    flfrq='Si1.freq', 
+    q_in_band_form=.true.,
+ /
+ 6
+  gG    40
+  X     20
+  W     20
+  1.0   1.0 0.0   40
+  gG    40
+  L     1

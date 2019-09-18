@@ -1,0 +1,5 @@
+ &input
+   fildyn='Si1.dyn', 
+   zasr='simple', 
+   flfrc='Si1444.fc'
+ /
